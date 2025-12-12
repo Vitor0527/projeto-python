@@ -1,0 +1,23 @@
+[
+  {
+    "email": "rentacar@staff.pt",
+    "tipo": "admin",
+    "senha": "portugal"
+  },
+  {
+    "email": "cliente@cliente.pt",
+    "tipo": "cliente"
+  },
+  {
+    "email": "fadsnfa@gmail.com",
+    "tipo": "cliente"
+  },
+  {
+    "email": "teste@teste.pt",
+    "tipo": "cliente"
+  },
+  {
+    "email": "monkey@banana.pt",
+    "tipo": "cliente"
+  }
+]

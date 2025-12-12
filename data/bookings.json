@@ -1,0 +1,11 @@
+[
+ {
+ "email": "cliente1@gmail.com",
+ "matricula": "BB-11-BB",
+ "data_inicio": "2025-02-01",
+ "data_fim": "2025-02-05",
+ "dias": 4,
+ "preco_diario": 50,
+ "total": 180
+ }
+]

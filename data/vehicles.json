@@ -1,0 +1,89 @@
+[
+  {
+    "matricula": "XX-88-XX",
+    "marca": "Lamborghini",
+    "modelo": "Aventador",
+    "id_classe": 3,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "YY-99-YY",
+    "marca": "Ferrari",
+    "modelo": "488 Pista",
+    "id_classe": 3,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "ZZ-12-ZZ",
+    "marca": "McLaren",
+    "modelo": "720S",
+    "id_classe": 3,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "EX-34-OT",
+    "marca": "Aston Martin",
+    "modelo": "DB11",
+    "id_classe": 3,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "HY-56-PR",
+    "marca": "Porsche",
+    "modelo": "911 Turbo S",
+    "id_classe": 3,
+    "estado": "inativo"
+  },
+
+  {
+    "matricula": "AA-00-AA",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_classe": 1,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "BB-11-BB",
+    "marca": "Fiat",
+    "modelo": "500",
+    "id_classe": 1,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "CC-22-CC",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_classe": 2,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "DD-44-DD",
+    "marca": "Mercedes",
+    "modelo": "CLA",
+    "id_classe": 2,
+    "estado": "ativo"
+  },
+
+  {
+    "matricula": "EE-55-EE",
+    "marca": "Mercedes-Benz",
+    "modelo": "Classe V",
+    "id_classe": 4,
+    "estado": "ativo"
+  },
+  
+  {
+    "matricula": "FF-66-FF",
+    "marca": "Ford",
+    "modelo": "Kombi",
+    "id_classe": 4,
+    "estado": "ativo"
+  }
+]

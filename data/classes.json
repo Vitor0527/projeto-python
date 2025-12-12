@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "Económico",
+    "descrição": "Carros pequenos e económicos",
+    "preco_diario": 30
+  },
+
+  {
+    "id": 2,
+    "nome": "Compactos",
+    "descrição": "Carros médios e confortáveis",
+    "preco_diario": 50
+  },
+
+  {
+    "id": 3,
+    "nome": "Exóticos",
+    "descrição": "Carros exóticos",
+    "preco_diario": 200
+  },
+
+  {
+    "id": 4,
+    "nome": "Carrinhas",
+    "descrição": "Carrinhas de maior capacidade",
+    "preco_diario": 30
+  }
+]

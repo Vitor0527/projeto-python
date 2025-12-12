@@ -1,0 +1,10 @@
+[
+  {
+    "max_dias_reserva": 15,
+    "descontos": {
+      "ate_3_dias": 0,
+      "de_4_a_7_dias": 5,
+      "mais_de_7_dias": 15
+    }
+  }
+]
