@@ -1,11 +1,51 @@
 [
- {
- "email": "cliente1@gmail.com",
- "matricula": "BB-11-BB",
- "data_inicio": "2025-02-01",
- "data_fim": "2025-02-05",
- "dias": 4,
- "preco_diario": 50,
- "total": 180
- }
+  {
+    "email": "cliente1@gmail.com",
+    "matricula": "BB-11-BB",
+    "data_inicio": "2025-02-01",
+    "data_fim": "2025-02-05",
+    "dias": 4,
+    "preco_diario": 50,
+    "total": 180
+  },
+  {
+    "email": "asdrasdf@gmail.com",
+    "matricula": "BB-11-BB",
+    "data_inicio": "2025-12-15",
+    "data_fim": "2025-12-16",
+    "dias": 1,
+    "preco_diario": 30.0,
+    "desconto": 0,
+    "total": 30.0
+  },
+  {
+    "email": "asdrasdf@gmail.com",
+    "matricula": "XX-88-XX",
+    "data_inicio": "2025-12-16",
+    "data_fim": "2025-12-30",
+    "dias": 14,
+    "preco_diario": 200.0,
+    "desconto": 15,
+    "total": 2380.0
+  },
+  {
+    "email": "adsfjoadf@gmail.com",
+    "matricula": "EX-34-OT",
+    "data_inicio": "2025-12-16",
+    "data_fim": "2025-12-30",
+    "dias": 14,
+    "preco_diario": 200.0,
+    "desconto": 15,
+    "total": 2380.0
+  },
+  {
+    "email": "dedede@gmail.com",
+    "matricula": "XX-88-XX",
+    "data_inicio": "2026-01-12",
+    "data_fim": "2026-01-17",
+    "dias": 5,
+    "preco_diario": 200.0,
+    "desconto": 5,
+    "total": 950.0
+  }
 ]
