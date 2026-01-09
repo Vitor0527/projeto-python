@@ -6,7 +6,6 @@
     "id_classe": 3,
     "estado": "ativo"
   },
-
   {
     "matricula": "YY-99-YY",
     "marca": "Ferrari",
@@ -14,7 +13,6 @@
     "id_classe": 3,
     "estado": "ativo"
   },
-
   {
     "matricula": "ZZ-12-ZZ",
     "marca": "McLaren",
@@ -22,7 +20,6 @@
     "id_classe": 3,
     "estado": "ativo"
   },
-
   {
     "matricula": "EX-34-OT",
     "marca": "Aston Martin",
@@ -30,7 +27,6 @@
     "id_classe": 3,
     "estado": "ativo"
   },
-
   {
     "matricula": "HY-56-PR",
     "marca": "Porsche",
@@ -38,7 +34,6 @@
     "id_classe": 3,
     "estado": "inativo"
   },
-
   {
     "matricula": "AA-00-AA",
     "marca": "Toyota",
@@ -46,7 +41,6 @@
     "id_classe": 1,
     "estado": "ativo"
   },
-
   {
     "matricula": "BB-11-BB",
     "marca": "Fiat",
@@ -54,7 +48,6 @@
     "id_classe": 1,
     "estado": "ativo"
   },
-
   {
     "matricula": "CC-22-CC",
     "marca": "Renault",
@@ -62,7 +55,6 @@
     "id_classe": 2,
     "estado": "ativo"
   },
-
   {
     "matricula": "DD-44-DD",
     "marca": "Mercedes",
@@ -70,7 +62,6 @@
     "id_classe": 2,
     "estado": "ativo"
   },
-
   {
     "matricula": "EE-55-EE",
     "marca": "Mercedes-Benz",
@@ -78,12 +69,18 @@
     "id_classe": 4,
     "estado": "ativo"
   },
-  
   {
     "matricula": "FF-66-FF",
     "marca": "Ford",
     "modelo": "Kombi",
     "id_classe": 4,
+    "estado": "ativo"
+  },
+  {
+    "matricula": "GG-77-GG",
+    "marca": "Twingo",
+    "modelo": "Twingo",
+    "id_classe": 3,
     "estado": "ativo"
   }
 ]
