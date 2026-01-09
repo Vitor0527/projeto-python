@@ -39,6 +39,16 @@
     "total": 2380.0
   },
   {
+    "email": "cliente@cliente.pt",
+    "matricula": "EE-55-EE",
+    "data_inicio": "2026-01-09",
+    "data_fim": "2026-01-11",
+    "dias": 2,
+    "preco_diario": 30.0,
+    "desconto": 0,
+    "total": 60.0
+  },
+  {
     "email": "dedede@gmail.com",
     "matricula": "XX-88-XX",
     "data_inicio": "2026-01-12",

@@ -11,7 +11,7 @@ DATE_FMT = "%Y-%m-%d"
 ## Lê definições gerais como dicionário
 def load_definitions() -> Dict:
     data = read_json("data/settings.json")
-    if isinstance(data, list)and data:
+    if isinstance(data, list) and data:
         return data[0]
     else:
         return {}
