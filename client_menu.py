@@ -13,17 +13,26 @@ def load_definitions() -> Dict:
 ## Lê classes como uma lista
 def load_classes() -> List[Dict]:
     classes = read_json("data/classes.json")
-    return classes if isinstance(classes, list) else []
+    if isinstance(classes, list):
+        return classes
+    else:
+        return []
 
 ## Lê veiculos como uma lista
 def load_vehicles() -> List[Dict]:
     vehicles = read_json("data/vehicles.json")
-    return vehicles if isinstance(vehicles, list) else []
+    if isinstance(vehicles, list):
+         return vehicles
+    else:
+         return []
 
 ## Lê historico como uma lista
 def load_bookings() -> List[Dict]:
     bookings = read_json("data/bookings.json")
-    return bookings if isinstance(bookings, list) else []
+    if isinstance(bookings, list):
+        return bookings
+    else:
+        return []
 
 ## Salvar historico
 def save_bookings(bookings: List[Dict]) -> None:

@@ -11,7 +11,10 @@ DATE_FMT = "%Y-%m-%d"
 ## Lê definições gerais como dicionário
 def load_definitions() -> Dict:
     data = read_json("data/settings.json")
-    return data[0] if isinstance(data, list) and data else {}
+    if isinstance(data, list)and data:
+        return data[0]
+    else:
+        return{}
 
 
 ## Guarda definições gerais
@@ -22,7 +25,10 @@ def save_definitions(defs: Dict) -> None:
 ## Lê classes como lista
 def load_classes() -> List[Dict]:
     classes = read_json("data/classes.json")
-    return classes if isinstance(classes, list) else []
+    if isinstance(classes, list):
+        return classes
+    else:
+        return[]
 
 
 ## Guarda classes
@@ -33,8 +39,10 @@ def save_classes(classes: List[Dict]) -> None:
 ## Lê viaturas como lista
 def load_vehicles() -> List[Dict]:
     vehicles = read_json("data/vehicles.json")
-    return vehicles if isinstance(vehicles, list) else []
-
+    if isinstance(vehicles, list):
+        return vehicles
+    else:
+        return[]
 
 ## Guarda viaturas
 def save_vehicles(vehicles: List[Dict]) -> None:
@@ -44,7 +52,10 @@ def save_vehicles(vehicles: List[Dict]) -> None:
 ## Lê reservas como lista
 def load_bookings() -> List[Dict]:
     bookings = read_json("data/bookings.json")
-    return bookings if isinstance(bookings, list) else []
+    if isinstance(bookings, list):
+        return bookings
+    else:
+        return[]
 
 
 ## ---------- FUNÇÕES AUXILIARES DE DATAS ----------
