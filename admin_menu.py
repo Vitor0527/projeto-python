@@ -14,7 +14,7 @@ def load_definitions() -> Dict:
     if isinstance(data, list)and data:
         return data[0]
     else:
-        return{}
+        return {}
 
 
 ## Guarda definições gerais
